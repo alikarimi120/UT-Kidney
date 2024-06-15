@@ -19,7 +19,7 @@ The UT Kidney dataset comprises 570 ultrasound images from 281 different patient
 
 <br/>
 <p align="center">
-    <img src="kidney_sample.png" width = 1442px height = 495px><br/>
+    <img src="images/kidney_sample.png" width = 1442px height = 495px><br/>
 	Figure 1. UT Kidney Dataset
 </p>
 
@@ -76,8 +76,6 @@ If you use this dataset in your research, please cite the following paper:
 ```
 
 ## License
-
-[Specify the license under which the dataset is distributed, if applicable.]
 
 
 
